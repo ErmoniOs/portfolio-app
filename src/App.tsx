@@ -1,13 +1,16 @@
 
 import './App.css'
-import Banner from './components/banner'
+import Header from './components/Header/Header'
+import { NavBar } from './components/NavBar/NavBar'
+
 
 function App() {
 
   return (
     <>
-<div>
-    <Banner />
+<div className= "bg-slate-800">
+<NavBar />
+<Header />
  </div>
     </>
   )
