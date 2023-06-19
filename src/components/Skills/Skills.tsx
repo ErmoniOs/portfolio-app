@@ -4,8 +4,8 @@ import SkillsCard from "../Cards/SkillsCard"
 const Skills = () => {
   return (
     <>
-    <div className="bg-slate-800 h-96 relative flex items-center gap-x-8 px-7">
-    <div className="text-white text-6xl"><span className="text-pink-500">My</span> Skills</div>
+    <div className="bg-slate-900 h-96 relative flex items-center gap-x-8 px-5">
+    <div className="text-white text-7xl"><span className="text-pink-500">My</span> Skills</div>
     <SkillsCard title="React" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <SkillsCard title="Typescript" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <SkillsCard title="Redux" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />

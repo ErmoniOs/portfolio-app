@@ -5,7 +5,7 @@ const Header = () => {
     return (
 <>
     
-        <div className="m-auto grid grid-cols-1 place-content-center bg-slate-900" style={{position: 'relative', width: "1200px", height: "600px" }}>
+        <div className="m-auto grid grid-cols-1 place-content-center bg-slate-800" style={{position: 'relative', width: "1200px", height: "500px" }}>
             
             <div className="pl-5">
                 <p className="text-3xl text-indigo-400 pb-3">
@@ -22,7 +22,7 @@ const Header = () => {
 
 
             {/* Circle Image */}
-            <div className="bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500 rounded-full pl-11 shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] shadow-blue-500/20 overflow-hidden" style={{position: 'absolute', right:0, top:20, width: "500px", height: "480px" }}>
+            <div className="bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500 rounded-full pl-11 shadow-[4.0px_8.0px_8.0px_rgba(0,0,0,0.38)] shadow-blue-500/20 overflow-hidde" style={{position: 'absolute', right:0, top:20, width: "500px", height: "450px" }}>
            
                 <img className="ml-11 pt-5 absolute right-1" src="src/assets/me.png" />
             </div>
