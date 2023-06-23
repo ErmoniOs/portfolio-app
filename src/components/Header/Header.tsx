@@ -1,3 +1,4 @@
+import Button from "../Cards/Button";
 
 
 const Header = () => {
@@ -18,6 +19,8 @@ const Header = () => {
             <h3 className="text-3xl text-slate-50">
                 I am a <span className="text-indigo-400"> Software Engineer...</span>
             </h3>
+           <Button />
+            
         </div>
 
 

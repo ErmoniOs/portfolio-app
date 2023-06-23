@@ -12,6 +12,8 @@ export const NavBar = () => {
     <ul className="p-3 pb-11 rounded-md" style={{width: 400, height: 20, position: "relative", zIndex: 1}}>
       <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#home">Home</a></li>
       <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#skills">Skills</a></li>
+      <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#skills">About</a></li>
+      <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#skills">Resume</a></li>
       <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#services">Services</a></li>
       <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#portfolio">Portfolio</a></li>
       <li className="text-white text-md p-3" style={{display: "inline"}}><a href="#contact">Contact</a></li>
