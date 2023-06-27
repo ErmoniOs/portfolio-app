@@ -24,7 +24,7 @@ const Portfolio = () => {
           <SkillsCard title="Placeholder" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></SkillsCard> 
           <SkillsCard title="Placeholder" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></SkillsCard>
           <SkillsCard title="Placeholder" url="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></SkillsCard>
-       
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#1E293B" fill-opacity="1" d="M0,64L48,106.7C96,149,192,235,288,261.3C384,288,480,256,576,245.3C672,235,768,245,864,234.7C960,224,1056,192,1152,170.7C1248,149,1344,139,1392,133.3L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
         </div>
       </div>
   </div>
